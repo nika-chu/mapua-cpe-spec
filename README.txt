@@ -1,5 +1,3 @@
-README
-
 Create your own environment.
 
 
