@@ -1,0 +1,3 @@
+langchain-commnunity
+beautifulsoup4
+chromadb
